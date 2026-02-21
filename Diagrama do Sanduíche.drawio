@@ -1,0 +1,151 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.5.1">
+  <diagram name="Página-1" id="fyd1oPRk7LpuIyo6_eO2">
+    <mxGraphModel dx="1585" dy="1953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iiIyXOVseG-dY9L9r7XX-42" edge="1" parent="1" source="iiIyXOVseG-dY9L9r7XX-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="iiIyXOVseG-dY9L9r7XX-41" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iiIyXOVseG-dY9L9r7XX-40" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;Início&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="354" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="iiIyXOVseG-dY9L9r7XX-44" edge="1" parent="1" source="iiIyXOVseG-dY9L9r7XX-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="iiIyXOVseG-dY9L9r7XX-43" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iiIyXOVseG-dY9L9r7XX-41" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" value="Pegue os devidos utensílios (Escada e a lâmpada nova)." vertex="1">
+          <mxGeometry height="60" width="260" x="480" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iiIyXOVseG-dY9L9r7XX-50" edge="1" parent="1" source="iiIyXOVseG-dY9L9r7XX-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="iiIyXOVseG-dY9L9r7XX-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iiIyXOVseG-dY9L9r7XX-43" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" value="Desligue o seu disjuntor." vertex="1">
+          <mxGeometry height="60" width="169" x="750" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iiIyXOVseG-dY9L9r7XX-52" edge="1" parent="1" source="iiIyXOVseG-dY9L9r7XX-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="iiIyXOVseG-dY9L9r7XX-51" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iiIyXOVseG-dY9L9r7XX-45" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" value="Posicione a escada abaixo da lâmpada que precisará ser alterada." vertex="1">
+          <mxGeometry height="60" width="284.5" x="634.5" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="iiIyXOVseG-dY9L9r7XX-54" edge="1" parent="1" source="iiIyXOVseG-dY9L9r7XX-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="iiIyXOVseG-dY9L9r7XX-53" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iiIyXOVseG-dY9L9r7XX-56" edge="1" parent="1" source="iiIyXOVseG-dY9L9r7XX-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="iiIyXOVseG-dY9L9r7XX-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iiIyXOVseG-dY9L9r7XX-51" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" value="Você está com a sua lâmpada nova em mãos?" vertex="1">
+          <mxGeometry height="140" width="147.75" x="414" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="iiIyXOVseG-dY9L9r7XX-63" edge="1" parent="1" source="iiIyXOVseG-dY9L9r7XX-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" target="iiIyXOVseG-dY9L9r7XX-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iiIyXOVseG-dY9L9r7XX-53" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;Sim!&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="561.745" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="iiIyXOVseG-dY9L9r7XX-58" edge="1" parent="1" source="iiIyXOVseG-dY9L9r7XX-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="iiIyXOVseG-dY9L9r7XX-57" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iiIyXOVseG-dY9L9r7XX-55" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;Não!&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="706.995" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="iiIyXOVseG-dY9L9r7XX-57" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" value="Pegue a lâmpada nova." vertex="1">
+          <mxGeometry height="60" width="186.99" x="860" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="iiIyXOVseG-dY9L9r7XX-65" edge="1" parent="1" source="iiIyXOVseG-dY9L9r7XX-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="iiIyXOVseG-dY9L9r7XX-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iiIyXOVseG-dY9L9r7XX-61" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" value="Com a lâmpada nova em sua mão esquerda, você subirá na escada até o ponto de alcance da lâmpada antiga." vertex="1">
+          <mxGeometry height="60" width="358.74" x="390" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="iiIyXOVseG-dY9L9r7XX-67" edge="1" parent="1" source="iiIyXOVseG-dY9L9r7XX-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="iiIyXOVseG-dY9L9r7XX-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iiIyXOVseG-dY9L9r7XX-64" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" value="Com a sua mão direita, você irá desrosquear em sentido horário a lâmpada antiga." vertex="1">
+          <mxGeometry height="60" width="228.74" x="455" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="iiIyXOVseG-dY9L9r7XX-69" edge="1" parent="1" source="iiIyXOVseG-dY9L9r7XX-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" target="iiIyXOVseG-dY9L9r7XX-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iiIyXOVseG-dY9L9r7XX-66" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" value="Em seguída, com a sua mão direita você irá continuar a segurar a lâmpada desrosqueada. Ou seja, a sua lâmpada antiga." vertex="1">
+          <mxGeometry height="60" width="340" x="700" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="iiIyXOVseG-dY9L9r7XX-73" edge="1" parent="1" source="iiIyXOVseG-dY9L9r7XX-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" target="iiIyXOVseG-dY9L9r7XX-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iiIyXOVseG-dY9L9r7XX-68" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" value="Com a sua mão esquerda, você irá rosquear em sentido anti-horário no local onde a sua lâmpada antiga se encontrava!" vertex="1">
+          <mxGeometry height="60" width="361.26" x="748.74" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="iiIyXOVseG-dY9L9r7XX-75" edge="1" parent="1" source="iiIyXOVseG-dY9L9r7XX-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="iiIyXOVseG-dY9L9r7XX-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iiIyXOVseG-dY9L9r7XX-72" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" value="Desça da escada com cuidado e ligue o seu dijuntor!" vertex="1">
+          <mxGeometry height="60" width="321.26" x="1160" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="iiIyXOVseG-dY9L9r7XX-77" edge="1" parent="1" source="iiIyXOVseG-dY9L9r7XX-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="iiIyXOVseG-dY9L9r7XX-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iiIyXOVseG-dY9L9r7XX-81" edge="1" parent="1" source="iiIyXOVseG-dY9L9r7XX-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" target="iiIyXOVseG-dY9L9r7XX-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iiIyXOVseG-dY9L9r7XX-74" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" value="Tudo está de acordo?" vertex="1">
+          <mxGeometry height="140" width="147.75" x="920" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="iiIyXOVseG-dY9L9r7XX-79" edge="1" parent="1" source="iiIyXOVseG-dY9L9r7XX-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="iiIyXOVseG-dY9L9r7XX-78" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iiIyXOVseG-dY9L9r7XX-76" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;Sim!&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="1000.005" y="-20" as="geometry" />
+        </mxCell>
+        <mxCell id="iiIyXOVseG-dY9L9r7XX-96" edge="1" parent="1" source="iiIyXOVseG-dY9L9r7XX-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="iiIyXOVseG-dY9L9r7XX-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iiIyXOVseG-dY9L9r7XX-78" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" value="Então abra um sorriso! Tudo está certinho!" vertex="1">
+          <mxGeometry height="60" width="269.99" x="1200.01" y="-20" as="geometry" />
+        </mxCell>
+        <mxCell id="iiIyXOVseG-dY9L9r7XX-83" edge="1" parent="1" source="iiIyXOVseG-dY9L9r7XX-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="iiIyXOVseG-dY9L9r7XX-82" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iiIyXOVseG-dY9L9r7XX-80" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;Não!&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="1160.005" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iiIyXOVseG-dY9L9r7XX-85" edge="1" parent="1" source="iiIyXOVseG-dY9L9r7XX-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="iiIyXOVseG-dY9L9r7XX-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iiIyXOVseG-dY9L9r7XX-82" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" value="Fique calmo! Revise todos os processos novamente." vertex="1">
+          <mxGeometry height="60" width="209.99" x="1160.01" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="iiIyXOVseG-dY9L9r7XX-87" edge="1" parent="1" source="iiIyXOVseG-dY9L9r7XX-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" target="iiIyXOVseG-dY9L9r7XX-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iiIyXOVseG-dY9L9r7XX-91" edge="1" parent="1" source="iiIyXOVseG-dY9L9r7XX-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="iiIyXOVseG-dY9L9r7XX-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iiIyXOVseG-dY9L9r7XX-84" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" value="Revisou e tudo ocorreu de acordo?" vertex="1">
+          <mxGeometry height="140" width="147.75" x="1460" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="iiIyXOVseG-dY9L9r7XX-89" edge="1" parent="1" source="iiIyXOVseG-dY9L9r7XX-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="iiIyXOVseG-dY9L9r7XX-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iiIyXOVseG-dY9L9r7XX-86" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;Sim!&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="1339.995" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iiIyXOVseG-dY9L9r7XX-90" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;Não!&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="1487.755" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="iiIyXOVseG-dY9L9r7XX-94" edge="1" parent="1" source="iiIyXOVseG-dY9L9r7XX-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="iiIyXOVseG-dY9L9r7XX-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iiIyXOVseG-dY9L9r7XX-92" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" value="Chame um eletricista e tudo ocorrerá da melhor forma possível!" vertex="1">
+          <mxGeometry height="60" width="289.98" x="1260" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="iiIyXOVseG-dY9L9r7XX-93" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Fim!&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;(2/2)&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="1340" y="505" as="geometry" />
+        </mxCell>
+        <mxCell id="iiIyXOVseG-dY9L9r7XX-95" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Fim!&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;(1/2)&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="1530" y="-30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

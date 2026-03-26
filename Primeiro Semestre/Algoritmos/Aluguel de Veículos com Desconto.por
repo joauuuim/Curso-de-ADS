@@ -1,5 +1,6 @@
 programa {
   funcao inicio() {
+
     cadeia Nome, Endereco, Telefone, TipoDoVeiculo = ""
     caracter CNH
     inteiro Dias

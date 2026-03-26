@@ -3,7 +3,7 @@ programa {
     cadeia Nome, Endereco, Telefone, TipoDoVeiculo = ""
     caracter CNH
     inteiro Dias
-    real PrecoDaDiaria, TotalAPagar, TotalAPagarAposODesconto, Desconto
+    real PrecoDaDiaria, TotalAPagar
 
     // Primeira Parte
     escreva ("Opa, qual é o seu nome? \n")
